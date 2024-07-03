@@ -1,8 +1,10 @@
 function App() {
   return (
     <div className="bg-black">
-      <h1 className="text-3xl font-bold underline text-center py-96 text-[#66E09B]">
-        Stay tuned!
+      <h1 className="text-4xl font-bold text-center py-96 text-[#66E09B]">
+        stay tuned
+        <br />
+        coming soon
       </h1>
     </div>
   );
